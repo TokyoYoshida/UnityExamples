@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Code Editors
+/Example*/.idea
+/Example*/.vscode
+/Example*/*.csproj
+/Example*/*.sln
+*.swp
+
+# Unity
+/Example*/Library
+/Example*/Logs
+/Example*/Temp
+/Example*/UserSettings
+
+# Xcode
+/Example*/Xcode
